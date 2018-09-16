@@ -1,0 +1,6 @@
+.azurecomponent
+.build
+.vscode
+.iotworkbenchproject
+
+*.code-workspace
